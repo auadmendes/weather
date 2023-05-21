@@ -20,10 +20,15 @@
   <h2>Preview</h2>
   <!-- Add your screenshot here -->
   
+  <h2>
+    <a href="https://www.linkedin.com/posts/luciano-mendes-horta_webdevelopment-weatherapp-typescript-activity-7066141384092622848-j1Jz?utm_source=share&utm_medium=member_desktop">Linkedin</a>
+  </h2>
+  
 ![weather1](https://github.com/auadmendes/weather/assets/5294488/6da0224e-1814-4043-a21d-2c74ed25e054)
 
 ![weather2Dark](https://github.com/auadmendes/weather/assets/5294488/f8e45e1a-dedc-4cfb-8cf9-cf3e689de30f)
 
+  
 
   <h2>How to Run the Project</h2>
   <ol>
